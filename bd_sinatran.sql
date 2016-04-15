@@ -5,6 +5,17 @@ CREATE DATABASE sinatran
        LC_COLLATE = 'Portuguese_Brazil.1252'
        LC_CTYPE = 'Portuguese_Brazil.1252'
        CONNECTION LIMIT = -1;
+       
+
+CREATE TABLE users(
+	login character varying(80)NOT NULL,
+	password character varying(80),
+	CONSTRAINT pk_login PRIMARY KEY (login)
+)WITH (
+  OIDS=FALSE
+);
+ALTER TABLE users
+  OWNER TO postgres;
 
 CREATE TABLE cidadao
 (
