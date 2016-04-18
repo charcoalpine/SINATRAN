@@ -25,9 +25,9 @@ CREATE TABLE cidadao
   sexo character(1),
   endereco character varying(150),
   telefone character varying(11) NOT NULL,
-  rg character varying(15) NOT NULL,
-  cnh character varying(15), 
-  cpf character varying(11) NOT NULL,
+  rg integer(15) NOT NULL,
+  cnh integer(15), 
+  cpf integer(11) NOT NULL,
   CONSTRAINT pk_cod PRIMARY KEY (cod)
 )
 WITH (
