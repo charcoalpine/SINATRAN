@@ -1,7 +1,7 @@
 SINATRAN - Sistema Integrado de Apreensões de Trânsito.
 
 ## Introdução ao Projeto.
-O objetivo deste projeto é de forma clara, melhorar o desempenho de relatórios, apreensões, multas e automóveis liberados no INTRANS/AM. O mesmo foi solicitado pelo atual Diretor Presidente ELIELSON SILVA DE ALENCAR (Diretor Presidente de Trânsito atuante no munícipio de Manacapuru – AM).//
+O objetivo deste projeto é de forma clara, melhorar o desempenho de relatórios, apreensões, multas e automóveis liberados no INTRANS/AM. O mesmo foi solicitado pelo atual Diretor Presidente ELIELSON SILVA DE ALENCAR (Diretor Presidente de Trânsito atuante no munícipio de Manacapuru – AM).
 
 - Tema:
   Sistema de Estoque, Relatório e Catalogação de Códigos de Trânsito.
